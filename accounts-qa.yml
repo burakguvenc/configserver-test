@@ -4,7 +4,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs - accounts qa environment - git reposu"
+  message: "Welcome to EazyBank accounts related local APIs - accounts qa environment - git reposu -webhook tanımlandı"
   contactDetails:
     name: "John Doe - Developer - RONALDINHO"
     email: "john@eazybank.com"
