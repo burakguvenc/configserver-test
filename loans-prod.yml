@@ -11,7 +11,7 @@ build:
 loans:
   message: "Welcome to EazyBank loans related prod APIs - loans prod environment "
   contactDetails:
-    name: "Pelias Sudhir - Product Owner - Cristiano Ronaldo"
+    name: "Pelias Sudhir - Product Owner - Cristiano Ronaldo - real madriddde oynadı"
     email: "pelias@eazybank.com"
   onCallSupport:
     - (723) 656-8709
