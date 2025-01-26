@@ -6,7 +6,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related local APIs - accounts qa environment - git reposu"
   contactDetails:
-    name: "John Doe - Developer"
+    name: "John Doe - Developer - RONALDINHO"
     email: "john@eazybank.com"
   onCallSupport:
     - (555) 555-1234
