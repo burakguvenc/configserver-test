@@ -7,7 +7,7 @@ accounts:
   message: "Welcome to EazyBank accounts related local APIs - accounts qa environment - git reposu -webhook tanımlandı"
   contactDetails:
     name: "John Doe - Developer - RONALDINHO"
-    email: "{cipher}b98b065e87ffcb4ad3ed4a81b95a67db64d44f8693ec03bf1c52db63518c69bcb543e20bc7bd857981cbc75c74d91747"
+    email: "{cipher}d33081edbedfe71dbc4031f1f01c1bca0e67938a76978dee93e1991e1d67249520f55923271f61fede2cf6567e915c45"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
